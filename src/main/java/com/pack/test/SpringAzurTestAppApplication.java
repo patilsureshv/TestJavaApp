@@ -13,7 +13,7 @@ public class SpringAzurTestAppApplication {
 	@GetMapping("/message")
 	public String messgae()
 	{
-		return "Welcome to Spring boot with Azur Integration test!...";
+		return "Welcome to Spring boot with Azur Integration test1212!...";
 	}
 
 	public static void main(String[] args) {
